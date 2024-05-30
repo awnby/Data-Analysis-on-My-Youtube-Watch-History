@@ -11,9 +11,7 @@ The information already given in the data is great, but is missing a couple key 
 Now, in order to add these three features, I utilized the Youtube Data v3 API. This API, however, allows for 10,000 requests a day, while the dataframe was just over 23000 entries long. I was able to circumvent this issue through batch requesting in sets of 25 entries, to drastically reduce the amount of tokens I was using as I ran this code multiple times a day. After that was settled, everything else fell into place with a bit of reading the API documentation, more preprocessing to neaten the dataframe, and finally outputting it into csv to analyze in SQL.
 
 ### Data Analysis (SQL)
-Going into this project, I wanted to utilize as many technologies necessary to familiarize myself with different environments. So, instead of doing my usual data analysis in Python or R, I wanted to give SQL a try.
-
-After getting PostgreSQL set up, I was able to run some simple EDA on the data.
+Going into this project, I wanted to utilize as many technologies necessary to familiarize myself with different environments. So, instead of doing my usual data analysis in Python or R, I wanted to give SQL a try. After getting PostgreSQL set up, I was able to run some simple EDA on the data.
 
 Below is my top 15 most watched videos of the past year since June 2023:
 
