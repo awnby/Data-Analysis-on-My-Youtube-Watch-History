@@ -25,6 +25,8 @@ And below is my top 5 most watched categories of the past year since June 2023:
 
 <img width="356" alt="image" src="https://github.com/awnby/Data-Analysis-on-My-Youtube-Watch-History/assets/151482772/92702e3c-ce8e-46d4-b80b-2acc833615dc">
 
+### Data Visualization (Tableau)
+I also wanted to flex my Tableau skills and make a nice dashboard. The dashboard can be found at this link: 
 
 
 
