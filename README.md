@@ -13,12 +13,15 @@ Going into this project, I wanted to utilize as many technologies necessary to f
 After getting PostgreSQL set up, I was able to run some simple EDA on the data.
 
 Below is my top 15 most watched videos of the past year since June 2023:
+
 <img width="747" alt="image" src="https://github.com/awnby/Data-Analysis-on-My-Youtube-Watch-History/assets/151482772/7ff3f8dc-5067-46c8-a7f7-0de9b7751e37">
 
 Below is my top 5 most watched creators of the past year since June 2023:
+
 <img width="373" alt="image" src="https://github.com/awnby/Data-Analysis-on-My-Youtube-Watch-History/assets/151482772/784dfa64-b9e2-4e77-819b-136475e7b0fc">
 
 And below is my top 5 most watched categories of the past year since June 2023:
+
 <img width="356" alt="image" src="https://github.com/awnby/Data-Analysis-on-My-Youtube-Watch-History/assets/151482772/92702e3c-ce8e-46d4-b80b-2acc833615dc">
 
 
